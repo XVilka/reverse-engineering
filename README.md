@@ -116,7 +116,9 @@ A curated list of awesome reversing resources
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 * [GHIDRA](https://ghidra-sre.org/)
 * [Binary Ninja](https://binary.ninja/)
+* [Cutter](https://cutter.re)
 * [Radare](http://www.radare.org/r/)
+* [Rizin](https://rizin.re)
 * [Hopper](http://hopperapp.com/)
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
@@ -130,6 +132,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [Falcon](https://github.com/falconre/falcon)
 
 ## Bytecode Analysis
 
